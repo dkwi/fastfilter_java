@@ -30,7 +30,7 @@ The following additional types are implemented, but less tested:
 When using Maven:
 
     <dependency>
-      <groupId>io.github.fastfilter</groupId>
+      <groupId>io.github.dkwi</groupId>
       <artifactId>fastfilter</artifactId>
       <version>1.0.3</version>
     </dependency>
